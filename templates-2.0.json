@@ -1,4 +1,7 @@
-[
+{
+	"version": "2",
+	"templates": [
+
 {
   "version": "2",
   "templates": [
@@ -1119,3 +1122,4 @@
   ]
 }
 ]
+}
